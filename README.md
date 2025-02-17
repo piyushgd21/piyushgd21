@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Piyush Deshpande
+A passionate Software Engineer (SWE) & Machine Learning (ML) Practitioner </br>
+Currently looking for Summer 2025 Opportunities
 
-<!--
-**piyushgd21/piyushgd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=PiyushGD21&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I have worked on:
+- 🧠 **Built a Staircase Detection System for Visually Impaired Individuals**
+- 🚀 **Enhanced AI-powered collaborative crime intelligence tools**
+- 🛠️ **Explored advanced ML techniques for bioinformatics applications**
+
+---
+
+## 📚 Currently Learning:
+- 🌱 **Deep Learning (MobileNet SSD, CNNs, RNNs)**
+- 💻 **Advanced Oracle SQL performance optimization**
+- ⚙️ **Cloud Computing & Cyber Infrastructure**
+
+---
+
+## 👨‍💻 Tech Stack:
+- 💾 **Languages**: Python, C++, Java, SQL, PL/SQL  
+- 🌐 **Frameworks**: Spring Boot, Django, Flask  
+- 📊 **Tools**: Docker, Power BI, Git  
+- 📡 **ML/AI**: OpenCV, TensorFlow, Scikit-Learn  
+
+---
+
+## 📈 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushGD21&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushGD21&show_icons=true&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PiyushGD21&theme=dark)
+
+---
+
+## 🏆 Achievements:
+- 🏅 **Best Paper Award** - "License Plate Detection using ML" (2023)  
+- 🎯 **95.54% Accuracy** - Staircase Detection for Visually Impaired  
+
+---
+
+### 💬 **Ask Me About:**
+- ⚡ **ML/AI Techniques**: Computer Vision, Feature Extraction  
+- 💾 **Database Optimization**: Oracle SQL, PL/SQL  
+- 🚀 **Web Development**: Django, Spring Boot  
+
+---
+
+### 🌐 **Connect with Me:**
+- 💼 [LinkedIn](https://linkedin.com/in/piyushgd21)  
+- 🌐 [Portfolio](https://piyushgd21.github.io/portfolio/)  
+- ✉️ [Email](mailto:deshpa74@purdue.edu)  
+
+---
+
+**Happy Coding! 🚀**
+
+---
