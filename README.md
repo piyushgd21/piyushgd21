@@ -1,6 +1,6 @@
 # Hi 👋, I'm Piyush Deshpande
 A passionate Software Engineer (SWE) & Machine Learning (ML) Practitioner </br>
-Currently looking for Summer 2025 Opportunities
+Currently looking for opportunities starting Summer 2026 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PiyushGD21&label=Profile%20views&color=0e75b6&style=flat)
 
