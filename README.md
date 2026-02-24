@@ -1,60 +1,69 @@
-# Hi 👋, I'm Piyush Deshpande
-A passionate Software Engineer (SWE) & Machine Learning (ML) Practitioner </br>
-Currently looking for opportunities starting Summer 2026 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=PiyushGD21&label=Profile%20views&color=0e75b6&style=flat)
+# Hi 👋, I'm Piyush Deshpande  
+
+Software Engineer focused on **Computer Vision, Robotics, and High-Performance Systems**  
+MS in Computer & Information Technology @ Purdue University (GPA: 3.83)  
+Open to opportunities starting **Summer 2026**
 
 ---
 
-## 🛠️ What I have worked on:
-- 🧠 **Built a Staircase Detection System for Visually Impaired Individuals**
-- 🚀 **Enhanced AI-powered collaborative crime intelligence tools**
-- 🛠️ **Explored advanced ML techniques for bioinformatics applications**
+##  Real-Time Perception & Robotics Projects
+
+### Embedded Staircase Detection System
+- Designed a real-time computer vision pipeline using OpenCV (grayscale normalization, histogram equalization, SIFT feature extraction)
+- Applied PCA for dimensionality reduction to optimize deployment on resource-constrained hardware
+- Achieved **95.5% detection accuracy**
+- Integrated haptic feedback, forming a complete sensor → perception → actuation loop
+
+### LiDAR TerrainSLAM (C++ Optimization-Driven Mapping)
+- Developed a high-performance SLAM pipeline using Ceres Solver for non-linear pose graph optimization
+- Implemented scan-to-scan ICP, loop closure detection, and global trajectory refinement
+- Processed **30GB+ point cloud datasets** using multi-threaded pipelines
+- Built deterministic ROS2 replay workflows for benchmarking throughput, latency, and jitter
 
 ---
 
-## 📚 Currently Learning:
-- 🌱 **Deep Learning (MobileNet SSD, CNNs, RNNs)**
-- 💻 **Advanced Oracle SQL performance optimization**
-- ⚙️ **Cloud Computing & Cyber Infrastructure**
+## Systems & Performance Engineering
+
+- Reduced memory consumption by **40%** in a 15k LOC C++ codebase
+- Designed structured sensor replay pipelines using ROS2 (.db3 storage)
+- Debugged complex C++ build/linkage issues across Boost, PDAL, and PCL
+- Conducted performance validation using profiling tools (gdb, perf)
 
 ---
 
-## 👨‍💻 Tech Stack:
-- 💾 **Languages**: Python, C++, Java, SQL, PL/SQL  
-- 🌐 **Frameworks**: Spring Boot, Django, Flask  
-- 📊 **Tools**: Docker, Power BI, Git  
-- 📡 **ML/AI**: OpenCV, TensorFlow, Scikit-Learn  
+## Tech Stack
+
+### Languages
+C++ (modern), Python, SQL
+
+### Computer Vision & Robotics
+OpenCV, ROS2, PointCloud2, IMU integration, SLAM, Feature Extraction
+
+### Machine Learning
+PyTorch, Scikit-learn, Model Training, Cross-Validation, MLflow
+
+### Systems & Tooling
+Linux, CMake, GCC/Clang, Git, Docker, gdb, perf
 
 ---
 
-## 📈 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushGD21&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushGD21&show_icons=true&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PiyushGD21&theme=dark)
+## Focus Areas
+
+- Real-time perception systems
+- Embedded ML deployment
+- Robotics & autonomous systems
+- Performance optimization & benchmarking
+- Deterministic system validation
 
 ---
 
-## 🏆 Achievements:
-- 🏅 **Best Paper Award** - "License Plate Detection using ML" (2023)  
-- 🎯 **95.54% Accuracy** - Staircase Detection for Visually Impaired  
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/piyushdeshpande
+- 🌐 Portfolio: https://piyushgd21.github.io/portfolio/
+- ✉️ Email: deshpa74@purdue.edu
 
 ---
 
-### 💬 **Ask Me About:**
-- ⚡ **ML/AI Techniques**: Computer Vision, Feature Extraction  
-- 💾 **Database Optimization**: Oracle SQL, PL/SQL  
-- 🚀 **Web Development**: Django, Spring Boot  
-
----
-
-### 🌐 **Connect with Me:**
-- 💼 [LinkedIn](https://linkedin.com/in/piyushgd21)  
-- 🌐 [Portfolio](https://piyushgd21.github.io/portfolio/)  
-- ✉️ [Email](mailto:deshpa74@purdue.edu)  
-
----
-
-**Happy Coding! 🚀**
-
----
+If you're building robotics, autonomous systems, or high-performance ML infrastructure - let's connect.
